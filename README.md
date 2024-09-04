@@ -1,2 +1,2 @@
 # BMI500
-This resp is for my class projects. 
+This repo is for my class projects
